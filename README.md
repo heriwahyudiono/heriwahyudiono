@@ -1,4 +1,4 @@
-<p align="center"><a href="https://habibi2004.pages.dev/"><img width="150" src="./assets/heriwahyudiono.png" /></a></p>
+<p align="center"><a href="https://heriwahyudiono.github.io"><img width="150" src="./assets/heriwahyudiono.png" /></a></p>
 
 <h1 align="center">Hi There! <img src="./assets/hi.gif" height="32" />I'm <a href="https://heriwahyudiono.github.io" style="color:#0d6efd;text-decoration: none;">Heri</a></h1>
 <h4 align="center">MERN Stack Developer but using MySQL</h4>
@@ -10,11 +10,10 @@
 
 ## 📬 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ahmad.habibi7159)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ahmadhabibi14_)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
+[![Telegram](https://img.shields.io/badge/Telegram-DEDEDE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/heri_wahyudiono)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadhabibi14)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-[![Telegram](https://img.shields.io/badge/Telegram-DEDEDE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ahmadhabibi14)
 
 ## 🔧 Technologies and Tools
   
