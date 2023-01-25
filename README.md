@@ -1,12 +1,12 @@
 <p align="center"><a href="https://habibi2004.pages.dev/"><img width="150" src="./assets/heriwahyudiono.png" /></a></p>
 
-<h1 align="center">Hi There! <img src="./assets/Hi.gif" height="32" />I'm <a href="https://heriwahyudiono.github.io" style="color:#0d6efd;text-decoration: none;">Heri</a></h1>
+<h1 align="center">Hi There! <img src="./assets/hi.gif" height="32" />I'm <a href="https://heriwahyudiono.github.io" style="color:#0d6efd;text-decoration: none;">Heri</a></h1>
 <h4 align="center">MERN Stack Developer but using MySQL</h4>
 
 ## 👨🏻‍💻 About Me
 
--  🔭 I’m currently a Computer Science student
--  💬 Ask me about Anything
+-  💬 Everyday I learn Programming
+-  🔭 I usually write articles on <a href="https://heriwahyudiono.github.io" style="color:#0d6efd;text-decoration: none;">Zalearning</a></h1>
 -  😄 Pronouns: He/Him
 -  📫 How to reach me: heriwahyudiono@outlook.co.id
 -  ⚡ Fun fact: I like Memes
