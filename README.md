@@ -1,6 +1,6 @@
-<p align="center"><a href="https://heriwahyudiono.github.io"><img width="150" src="./assets/heriwahyudiono.png" /></a></p>
+<a href="https://heriwahyudiono.github.io"><img align="center" width="150" src="./assets/heriwahyudiono.png" /></a>
 
-<h1 align="center">Hi There!<img src="./assets/hi.gif" height="32" />I'm <a href="https://heriwahyudiono.github.io" style="color:#0d6efd;text-decoration: none;">Heri</a></h1>
+<h1 align="center">Hi There!<img src="./assets/hi.gif" height="32" /> I'm <a href="https://heriwahyudiono.github.io" style="color:#0d6efd;text-decoration: none;">Heri</a></h1>
 <h4 align="center">MERN Stack Developer but using MySQL😅</h4>
 
 ## 🙎‍♂️ About Me
