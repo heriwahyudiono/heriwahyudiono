@@ -1,6 +1,6 @@
 <p align="center"><a href="https://heriwahyudiono.github.io"><img width="150" src="./assets/heriwahyudiono.png" /></a></p>
 
-<h1 align="center">Hi There! <img src="./assets/Hi.gif" height="32" /> I'm <a href="https://heriwahyudiono.github.io" style="color:#0d6efd;text-decoration: none;">Heri</a></h1>
+<h1 align="center">Hi There! <img src="./assets/hi.gif" height="32" /> I'm <a href="https://heriwahyudiono.github.io" style="color:#0d6efd;text-decoration: none;">Heri</a></h1>
 <h4 align="center">MERN Stack Developer but using MySQL😅</h4>
 
 ## 🙆‍♂️ About Me
@@ -11,9 +11,9 @@
 ## 📞 Connect with me
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285609839193)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/heriwhydiono)
 [![Telegram](https://img.shields.io/badge/Telegram-DEDEDE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/heri_wahyudiono)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadhabibi14)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 ## 🔧 Technologies and Tools
   
@@ -29,7 +29,6 @@
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools
 
