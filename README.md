@@ -5,11 +5,8 @@
 
 ## 👨🏻‍💻 About Me
 
--  💬 Everyday I learn Programming
--  🔭 I usually write articles on <a href="https://heriwahyudiono.github.io" style="color:#0d6efd;text-decoration: none;">Zalearning</a></h1>
--  😄 Pronouns: He/Him
--  📫 How to reach me: heriwahyudiono@outlook.co.id
--  ⚡ Fun fact: I like Memes
+-  💻 Everyday I learn Programming
+-  ✍️ I usually write articles on <a href="https://heriwahyudiono.github.io" style="color:#0d6efd;text-decoration: none;">Zalearning</a></h1>
 
 ## 📬 Connect with Me
 
