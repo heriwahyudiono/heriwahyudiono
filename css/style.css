@@ -37,6 +37,16 @@ header {
     display: none;
 }
 
+#navMenu ul {
+    padding: 5px;
+    width: 70px;
+}
+
+#navMenu ul li {
+    padding: 5px;
+    background-color: #F5F7F8;
+}
+
 #toggleButton img {
     width: 24px;
     height: 24px;
