@@ -54,7 +54,7 @@ header {
 }
 
 .profile-picture h2 {
-    margin-top: 20px;
+    margin-top: 25px;
 }
 
 .profile-picture img:hover {
@@ -73,7 +73,7 @@ header {
 #navMenu ul {
     width: 125px;
     background-color: #F5F7F8;
-    padding-top: 15px;
+    padding-top: 10px;
     padding-bottom: 15px;
     border-radius: 5px;
 }
@@ -93,9 +93,11 @@ header {
 
 #navMenu ul li:hover {
     background-color: aqua;
+    cursor: pointer;
 }
 
 #toggleButton img {
     width: 24px;
     height: 24px;
+    cursor: pointer;
 }

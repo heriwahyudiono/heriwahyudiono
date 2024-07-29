@@ -1,8 +1,8 @@
 document.getElementById('toggleButton').addEventListener('click', function() {
-    var navMenu = document.getElementById('navMenu');
-    var button = document.getElementById('toggleButton');
-    var icon = button.querySelector('img');
-    
+    let navMenu = document.getElementById('navMenu');
+    let button = document.getElementById('toggleButton');
+    let icon = button.querySelector('img');
+
     if (navMenu.style.display === 'none') {
         navMenu.style.display = 'block';
         icon.src = 'assets/icons/toggle-close.png';
@@ -11,3 +11,5 @@ document.getElementById('toggleButton').addEventListener('click', function() {
         icon.src = 'assets/icons/toggle-menu.png';
     }
 });
+
+
