@@ -131,9 +131,16 @@ header {
 }
 
 .icons img:hover {
-    transform: translateY(-15px);
+    transform: translateY(-10px);
     transition: 1s;
     cursor: pointer;
+}
+
+.bio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
 }
 
 .card-1 {
