@@ -38,6 +38,12 @@ header {
     }
 }
 
+@media only screen and (min-width: 576px) {
+    #navMenu ul {
+        display: none; 
+    }
+}
+
 .profile-picture {
     display: flex;
     flex-direction: column;
@@ -78,12 +84,6 @@ header {
     border-radius: 5px;
 }
 
-@media only screen and (min-width: 576px) {
-    #navMenu ul {
-        display: none; 
-    }
-}
-
 #navMenu ul li {
     list-style-type: none;
     padding: 5px;
@@ -100,4 +100,54 @@ header {
     width: 24px;
     height: 24px;
     cursor: pointer;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media only screen and (max-width: 576px) {
+    .card {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.icons {
+    display: flex;
+    gap: 6px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.icons img {
+    width: 24px;
+    height: 24px;
+}
+
+.icons img:hover {
+    transform: translateY(-15px);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card-1 {
+    margin: 10px;
+    padding: 10px;
+    background-color: aquamarine;
+    width: 35%;
+    height: 200px;
+} 
+
+.card-2 {
+    margin: 10px;
+    padding: 10px;
+    background-color: aqua;
+    width: 35%;
+    height: 200px;
 }
